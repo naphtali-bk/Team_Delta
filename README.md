@@ -289,27 +289,3 @@ By completing this project, Team Delta gained practical experience in:
 - Team collaboration using Agile-inspired practices.
 One recommendation
 
-I would make one small improvement to reflect the project accurately.
-
-Instead of saying:
-
-Configure Static Website Hosting
-
-I'd change the heading to:
-
-Prepare the Static Website for Deployment
-
-because Amplify is doing the hosting, while the website itself remains a static site. That wording is technically accurate and won't confuse reviewers into thinking you configured S3 static website hosting directly.
-
-I think this version better reflects what your team actually did:
-
-✅ AWS Account Setup
-✅ MFA
-✅ IAM
-✅ Static website development
-✅ GitHub collaboration
-✅ AWS Amplify deployment
-✅ Automatic deployments from GitHub
-✅ Team-based Agile workflow
-
-It tells the real story of your project rather than the original Builder Challenge verbatim.
