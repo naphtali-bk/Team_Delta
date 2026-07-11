@@ -287,5 +287,4 @@ By completing this project, Team Delta gained practical experience in:
 - Deploying applications with AWS Amplify.
 - Continuous deployment using GitHub and AWS Amplify.
 - Team collaboration using Agile-inspired practices.
-One recommendation
 
